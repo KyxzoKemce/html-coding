@@ -1,8 +1,13 @@
 Hi.
 My name is Aeren Daniel aka KyxzoKemce.
 
-Coding language I mastered:
-1. LUA
-2. HTML
-3. CSS
-4. Python
+Wanna see my arts?
+
+1. No name
+https://kyxzokemce.github.io/html-coding/introduction/index
+
+2. Idk
+https://kyxzokemce.github.io/html-coding/introduction/testing-tags
+
+3. Structured HTML
+https://kyxzokemce.github.io/html-coding/introduction/structured-html
